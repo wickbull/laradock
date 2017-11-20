@@ -1,4 +1,4 @@
-# laradock
+# laradock - for Laravel
 laradock with my settings
 
 docker-compose up -d nginx php-fpm mysql workspace phpmyadmin
